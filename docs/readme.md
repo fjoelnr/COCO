@@ -1,0 +1,1 @@
+This directory will hold the documentation and tutorials for COCO.

@@ -1,0 +1,1 @@
+This directory will contain the source code for COCO, including the core API and language-specific modules.

@@ -1,0 +1,1 @@
+This directory will store the plugins for integrating COCO with popular code editors and development environments.
